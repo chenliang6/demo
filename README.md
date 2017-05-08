@@ -1,4 +1,4 @@
-#Github 问题集（1）
+# Github 问题集（1）
 
 1. github是什么
 2. git是什么
@@ -15,8 +15,46 @@
 13. watch的作用是？
 14. 搜索结果分别有哪些类别
 15. 你在github上挖到什么宝
+* 答案 
+  GitHub是什么
+IT技术人员的社交网站（一个面向开源及私有软件项目的托管平台）
+Github
+Git是什么 版本管理系统
+学习GitHub的5个理由
+（1）GitHub上有很多的技术高手
+（2）GitHub上可以接触到最新最前沿的IT技术
+（3）可以观察到软件的开发过程，一览无遗，记录技术的发展
+（4）GitHub是一个开源社区，我们可以寻找有兴趣的项目参与，增加项目经验
+（5）不仅有托管项目还有文档教程
+GitHub的优势是什么
+（1）只支持Git
+（2）完整协议支持
+（3）在线文件编辑
+（4）社交网络元素
+（5）特色工作模式
+（6）私有仓库托管
+（7）Ruby on Rails架构
+通过GitHub年度报告让你记忆最深刻的消息有哪些
+JavaScript语言使用人数超过了Java
+GitHub可以有个人账号，还可以有（ 公司/组织 ）账号
+GitHub上面的两个组成要素是什么
+人/组织 和 仓库/项目
+GitHub上两个重要页面
+个人主页和数字仪表板
+主页菜单都包含什么
+个人信息和仓库
+仓库的心跳线代表什么
+项目活跃度
+Star的作用是什么
+收藏项目
+Fork的作用是什么
+复制项目
+Watch的作用是什么
+跟踪项目
+搜索结果分别有哪些类别
+项目、代码、提交，issues，users，wiki
 
-#Github问题集（2）
+# Github问题集（2）
 
 1. 个人主页上的“+”下拉菜单可创建的四种类别分别有？分别的意思？
 2. 如何能将仓库中的html文件直接解析成页面？
@@ -43,6 +81,8 @@
 23. Commit的意义是
 24. Pull的意义是
 25. Push的意义是
+
+
 # MarkDown相关问题整理
 
 1. MarkDown是什么？
@@ -50,3 +90,20 @@
 3. MarkDown的用途？
 4. MarkDown的编辑工具有哪些？
 5. MarkDown的区块元素和区段元素分别包含哪些？
+* 答案
+  1Markdown 是一个 Web 上使用的文本到HTML的转换工具
+2markdown特点 兼容 HTML  在线观看 平台支持 排版样式简单 特殊字符自动转换   Markdown 的特点是“易读易写”，
+3 用途 IT写东西
+4 编辑工具
+Windows 平台 GitHub Atom MarkdownPad MarkPad
+Linux 平台 ReText 
+Mac平台 Mou 
+在线编辑器 Markable.in
+Dillinger.io
+浏览器插件MaDe (Chrome)
+高级应用(Sublime Text 2 + MarkdownEditing ) 
+
+5区块元素 
+ 段落和换行 标题 区块引用 列表 代码区块 分割线
+ 区段元素
+ 链接 强调 代码 图片
