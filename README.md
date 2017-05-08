@@ -140,6 +140,18 @@ git commit -a -m[message]
 
 git status
 
+### 22.查看历史信息的命令
+git reflog
+### 23.Commit的意义是
+提交
+### 24.pull的意义是
+合并分支  有一个仓库，叫Repo A。你如果要往里贡献代码，首先要Fork这个Repo，于是在你的Github账号下有了一个Repo A2,。然后你在这个A2下工作，Commit，push等。然后你希望原始仓库Repo A合并你的工作，你可以在Github上发起一个Pull Request，意思是请求Repo A的所有者从你的A2合并分支。如果被审核通过并正式合并，这样你就为项目A做贡献了
+### 25.Push的意义是
+推送代码到GitHub上
+  将本地代码》GitHub（首先在 github 创建一个代码仓库； 然后本地代码根目录 `git init`，初始化本地代码仓库； 接着添加远程仓库地址： git remote add origin 远程地址然后，执行以下操作即可提交、推送代码了： git commit -a -m "我的第一次提交"git push）
+
+
+
 ## 第三节课
 ### 1.MarkDown是什么？
 是一个 Web 上使用的文本到HTML的转换工具
